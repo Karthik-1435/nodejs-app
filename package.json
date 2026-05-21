@@ -1,0 +1,14 @@
+{
+  "name": "racing-bikes-store",
+  "version": "1.0.0",
+  "description": "Stylish Racing Bikes Online Store",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["racing", "bikes", "ecommerce"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
